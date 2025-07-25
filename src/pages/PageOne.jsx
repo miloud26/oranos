@@ -127,7 +127,7 @@ const PageOne = () => {
             sx={{
               marginTop: "15px",
               color: "white",
-              fontSize: "22px",
+              fontSize: "20px",
               fontWeight: "bold",
               textShadow: "1px 1px 9px white",
               lineHeight: "1.7",
@@ -175,7 +175,7 @@ const PageOne = () => {
             variant="h3"
             sx={{
               color: "white",
-              fontSize: "26px",
+              fontSize: "24px",
               fontWeight: "bold",
               textShadow: "1px 1px 9px white",
               lineHeight: "1.7",
