@@ -127,7 +127,7 @@ const PageOne = () => {
             sx={{
               marginTop: "15px",
               color: "white",
-              fontSize: "24px",
+              fontSize: "22px",
               fontWeight: "bold",
               textShadow: "1px 1px 9px white",
               lineHeight: "1.7",
@@ -175,7 +175,7 @@ const PageOne = () => {
             variant="h3"
             sx={{
               color: "white",
-              fontSize: "29px",
+              fontSize: "26px",
               fontWeight: "bold",
               textShadow: "1px 1px 9px white",
               lineHeight: "1.7",
@@ -621,7 +621,7 @@ const PageOne = () => {
               color: "black",
               padding: "15px",
               borderRadius: "16px",
-              fontSize: "26px",
+              fontSize: "24px",
               fontWeight: "bold",
               textShadow: "1px 1px 9px #000",
             }}
@@ -743,7 +743,7 @@ const PageOne = () => {
           variant="h3"
           sx={{
             color: "black",
-            fontSize: "35px",
+            fontSize: "30px",
             fontWeight: "bold",
             textShadow: "1px 1px 9px black",
             lineHeight: "1.7",
@@ -816,7 +816,7 @@ const PageOne = () => {
             sx={{
               marginTop: "15px",
               color: "black",
-              fontSize: "24px",
+              fontSize: "22px",
               fontWeight: "bold",
               textShadow: "1px 1px 5px black",
               lineHeight: "1.7",
