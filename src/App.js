@@ -7,6 +7,7 @@ import SingleProduct from "./components/single/SingleProduct";
 import PrivacyPolicy from "./components/global/Privacy";
 import ReturnPolicy from "./components/global/Return";
 import PageOne from "./pages/PageOne";
+import PageTwo from "./pages/PageTwo";
 
 const App = () => {
   return (
@@ -26,6 +27,7 @@ const App = () => {
             <Route path="/:id" element={<SingleProduct />} />
             <Route path="/return" element={<ReturnPolicy />} />
             <Route path="/pages/products1" element={<PageOne />} />
+            <Route path="/pages/products2" element={<PageTwo />} />
             <Route path="/privacy" element={<PrivacyPolicy />} />
           </Routes>
         </Box>
