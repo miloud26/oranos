@@ -626,7 +626,7 @@ const PageOne = () => {
               textShadow: "1px 1px 9px #000",
             }}
             target="_blank"
-            href="https://gumroad.com/checkout?product=vtxxkz&quantity=1&_gl=1*lflo71*_ga*NTY2NDY4MjI1LjE3MzU3ODEwODg.*_ga_6LJN6D94N6*czE3NTMzOTE1OTckbzQkZzEkdDE3NTMzOTIwOTEkajU4JGwwJGgw"
+            href="https://gumroad.com/checkout?product=nilqo&quantity=1"
           >
             احصل على الحزمة الكاملة الآن{" "}
           </a>
@@ -871,7 +871,7 @@ const PageOne = () => {
               textShadow: "1px 1px 9px #000",
             }}
             target="_blank"
-            href="https://gumroad.com/checkout?product=vtxxkz&quantity=1&_gl=1*lflo71*_ga*NTY2NDY4MjI1LjE3MzU3ODEwODg.*_ga_6LJN6D94N6*czE3NTMzOTE1OTckbzQkZzEkdDE3NTMzOTIwOTEkajU4JGwwJGgw"
+            href="https://gumroad.com/checkout?product=nilqo&quantity=1"
           >
             احصل على الحزمة الكاملة الآن{" "}
           </a>
@@ -1266,7 +1266,7 @@ const PageOne = () => {
                 textShadow: "1px 1px 9px #000",
               }}
               target="_blank"
-              href="https://gumroad.com/checkout?product=vtxxkz&quantity=1&_gl=1*lflo71*_ga*NTY2NDY4MjI1LjE3MzU3ODEwODg.*_ga_6LJN6D94N6*czE3NTMzOTE1OTckbzQkZzEkdDE3NTMzOTIwOTEkajU4JGwwJGgw"
+              href="https://gumroad.com/checkout?product=nilqo&quantity=1"
             >
               احصل على الحزمة الكاملة الآن{" "}
             </a>
@@ -1447,7 +1447,7 @@ const PageOne = () => {
               textShadow: "1px 1px 9px #000",
             }}
             target="_blank"
-            href="https://gumroad.com/checkout?product=vtxxkz&quantity=1&_gl=1*lflo71*_ga*NTY2NDY4MjI1LjE3MzU3ODEwODg.*_ga_6LJN6D94N6*czE3NTMzOTE1OTckbzQkZzEkdDE3NTMzOTIwOTEkajU4JGwwJGgw"
+            href="https://gumroad.com/checkout?product=nilqo&quantity=1"
           >
             احصل على الحزمة الكاملة الآن{" "}
           </a>
