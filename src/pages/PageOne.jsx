@@ -877,6 +877,587 @@ const PageOne = () => {
           </a>
         </Box>
       </Box>
+
+      <Box sx={{ padding: "25px 6px", background: "black", color: "white" }}>
+        <Box sx={{ padding: "25px 6px", background: "#000" }}>
+          <Typography
+            variant="h3"
+            sx={{
+              color: "white",
+              fontSize: "30px",
+              fontWeight: "bold",
+              textShadow: "1px 1px 9px white",
+              lineHeight: "1.7",
+            }}
+          >
+            الميزات الرئيسية{" "}
+          </Typography>
+        </Box>
+        <Box sx={{ padding: "25px 6px", background: "#000" }}>
+          <Typography
+            variant="h3"
+            sx={{
+              color: "#FBBB03",
+              fontSize: "22px",
+
+              textShadow: "1px 1px 9px #FBBB03",
+              lineHeight: "1.7",
+            }}
+          >
+            لماذا تختار هذه الحزمة{" "}
+          </Typography>
+        </Box>
+        <Box
+          sx={{
+            boxShadow: "0px 0px 8px 5px #FBBB03",
+            padding: "25px 6px",
+            background: "#ffffff",
+            marginBottom: "25px",
+          }}
+        >
+          <Typography
+            variant="h3"
+            sx={{
+              color: "black",
+              fontSize: "30px",
+
+              textShadow: "1px 1px 9px black",
+              lineHeight: "1.7",
+            }}
+          >
+            أكبر مكتبة رقمية متاحة
+          </Typography>
+        </Box>
+        <Box
+          sx={{
+            boxShadow: "0px 0px 8px 5px #FBBB03",
+            padding: "25px 6px",
+            background: "#ffffff",
+            marginBottom: "25px",
+          }}
+        >
+          <Typography
+            variant="h3"
+            sx={{
+              color: "black",
+              fontSize: "30px",
+
+              textShadow: "1px 1px 9px black",
+              lineHeight: "1.7",
+            }}
+          >
+            سهل الاستخدام{" "}
+          </Typography>
+        </Box>
+        <Box
+          sx={{
+            boxShadow: "0px 0px 8px 5px #FBBB03",
+            padding: "25px 6px",
+            background: "#ffffff",
+            marginBottom: "25px",
+          }}
+        >
+          <Typography
+            variant="h3"
+            sx={{
+              color: "black",
+              fontSize: "30px",
+
+              textShadow: "1px 1px 9px black",
+              lineHeight: "1.7",
+            }}
+          >
+            الأرباح المستدامة{" "}
+          </Typography>
+        </Box>
+        <Box
+          sx={{
+            boxShadow: "0px 0px 8px 5px #FBBB03",
+            padding: "25px 6px",
+            background: "#ffffff",
+            marginBottom: "25px",
+          }}
+        >
+          <Typography
+            variant="h3"
+            sx={{
+              color: "black",
+              fontSize: "30px",
+
+              textShadow: "1px 1px 9px black",
+              lineHeight: "1.7",
+            }}
+          >
+            الدفع لمرة واحدة
+          </Typography>
+        </Box>
+      </Box>
+
+      <Box
+        sx={{
+          padding: "25px 30px",
+          background: "#000",
+        }}
+      >
+        <Box
+          sx={{
+            border: "2px white solid",
+            borderRadius: "12px",
+            padding: "15px 2px",
+            boxShadow: "0px 0px 8px 5px #FFFFFF",
+          }}
+        >
+          {" "}
+          <Typography
+            variant="h3"
+            sx={{
+              color: "white",
+              fontSize: "30px",
+              fontWeight: "bold",
+              textShadow: "1px 1px 9px white",
+              lineHeight: "1.7",
+            }}
+          >
+            احصل على حقوق إعادة البيع الكاملة وحقوق العلامات التجارية{" "}
+          </Typography>
+          <Typography
+            variant="h3"
+            sx={{
+              color: "#FBBB03",
+              fontSize: "22px",
+              fontWeight: "bold",
+              textShadow: "1px 1px 9px #FBBB03",
+              lineHeight: "1.7",
+              marginTop: "25px",
+            }}
+          >
+            قم ببيع أو بيع المنتجات الرقمية الخاصة بك كما تريد دون قيود. إعادة
+            تسمية المنتجات بالكامل أو تخصيصها أو تحريرها. التكيف مع هويتك
+            ومعايير الجودة.{" "}
+          </Typography>
+          <img
+            loading="lazy"
+            style={{ width: "100%", marginTop: "35px" }}
+            src="https://grbgo.com/wp-content/uploads/2024/11/smMub7mptZ2J8XhntkYResOfM.png"
+          ></img>
+          <Typography
+            variant="h3"
+            sx={{
+              color: "#FBBB03",
+              fontSize: "26px",
+              fontWeight: "bold",
+              textShadow: "1px 1px 9px #FBBB03",
+              lineHeight: "1.7",
+              marginTop: "25px",
+            }}
+          >
+            بعض النتائج المحققة من خلال الحزمة
+          </Typography>
+          <img
+            style={{ width: "100%", marginTop: "25px" }}
+            loading="lazy"
+            src="https://grbgo.com/wp-content/uploads/2024/12/2024-06-12-1.png"
+          ></img>
+          <img
+            style={{ width: "100%" }}
+            loading="lazy"
+            src="https://grbgo.com/wp-content/uploads/2024/12/حزمة-المنتجات-الرقمية-الأكثر-مبيعا-1.jpg"
+          ></img>
+          <img
+            style={{ width: "100%" }}
+            loading="lazy"
+            src="https://grbgo.com/wp-content/uploads/2024/12/2024-07-11-1.png"
+          ></img>
+        </Box>
+      </Box>
+
+      <Box sx={{ padding: "25px 6px", background: "black", color: "white" }}>
+        <Box sx={{ padding: "25px 6px", background: "#000" }}>
+          <Typography
+            variant="h3"
+            sx={{
+              color: "white",
+              fontSize: "30px",
+              fontWeight: "bold",
+              textShadow: "1px 1px 9px white",
+              lineHeight: "1.7",
+            }}
+          >
+            الحصول على الوصول والبدء في البيع{" "}
+          </Typography>
+        </Box>
+        <Box sx={{ padding: "25px 6px", background: "#000" }}>
+          <Typography
+            variant="h3"
+            sx={{
+              color: "#FBBB03",
+              fontSize: "22px",
+
+              textShadow: "1px 1px 9px #FBBB03",
+              lineHeight: "1.7",
+            }}
+          >
+            استمتع بإمكانية الوصول مدى الحياة والتحديثات المستقبلية لجميع
+            الموارد مقابل دفعة لمرة واحدة وبدون رسوم مخفية.{" "}
+          </Typography>
+        </Box>
+        <Box
+          sx={{
+            boxShadow: "0px 0px 8px 5px #FBBB03",
+            padding: "25px 6px",
+            background: "#ffffff",
+            marginBottom: "25px",
+          }}
+        >
+          <Typography
+            variant="h3"
+            sx={{
+              color: "black",
+              fontSize: "30px",
+
+              textShadow: "1px 1px 9px black",
+              lineHeight: "1.7",
+            }}
+          >
+            الوصول الفوري إلى إمبراطوريتك الرقمية{" "}
+          </Typography>
+        </Box>
+        <Box
+          sx={{
+            boxShadow: "0px 0px 8px 5px #FBBB03",
+            padding: "25px 6px",
+            background: "#ffffff",
+            marginBottom: "25px",
+          }}
+        >
+          <Typography
+            variant="h3"
+            sx={{
+              color: "black",
+              fontSize: "30px",
+
+              textShadow: "1px 1px 9px black",
+              lineHeight: "1.7",
+            }}
+          >
+            استكشاف والاستعداد للنمو{" "}
+          </Typography>
+        </Box>
+        <Box
+          sx={{
+            boxShadow: "0px 0px 8px 5px #FBBB03",
+            padding: "25px 6px",
+            background: "#ffffff",
+            marginBottom: "25px",
+          }}
+        >
+          <Typography
+            variant="h3"
+            sx={{
+              color: "black",
+              fontSize: "30px",
+
+              textShadow: "1px 1px 9px black",
+              lineHeight: "1.7",
+            }}
+          >
+            إطلاق وبدء الربح{" "}
+          </Typography>
+        </Box>
+        <Box
+          sx={{
+            padding: "25px 30px",
+            background: "#000",
+          }}
+        >
+          <Box
+            sx={{
+              border: "2px white solid",
+              borderRadius: "12px",
+              padding: "15px 2px",
+              boxShadow: "0px 0px 8px 5px #FFFFFF",
+            }}
+          >
+            {" "}
+            <Typography
+              variant="h3"
+              sx={{
+                color: "white",
+                fontSize: "30px",
+                fontWeight: "bold",
+                textShadow: "1px 1px 9px white",
+                lineHeight: "1.7",
+              }}
+            >
+              🔥 الحزمة الأكثر طلبا 🔥
+            </Typography>
+            <Typography
+              variant="h3"
+              sx={{
+                marginTop: "15px",
+                color: "red",
+                fontSize: "55px",
+                fontWeight: "bold",
+                textShadow: "1px 1px 9px red",
+                lineHeight: "1.7",
+                textDecoration: "line-through",
+              }}
+            >
+              19$
+            </Typography>
+            <Typography
+              variant="h3"
+              sx={{
+                marginTop: "15px",
+                color: "white",
+                fontSize: "20px",
+                fontWeight: "bold",
+                textShadow: "1px 1px 9px white",
+                lineHeight: "1.7",
+              }}
+            >
+              ✨ متوفر خصم لفترة محدودة جدا ✨
+            </Typography>
+            <Typography
+              variant="h3"
+              sx={{
+                marginTop: "15px",
+                color: "#FBBB03",
+                fontSize: "30px",
+                fontWeight: "bold",
+                textShadow: "1px 1px 9px #FBBB03",
+                lineHeight: "1.7",
+              }}
+            >
+              أحصل على الحزمة اليوم مقابل 11.99 $ فقط قبل إرتفاع السعر
+            </Typography>
+            <Typography
+              variant="h3"
+              sx={{
+                marginTop: "15px",
+                color: "#ffffffff",
+                fontSize: "30px",
+                fontWeight: "bold",
+                textShadow: "1px 1px 9px #ffffffff",
+                lineHeight: "1.7",
+              }}
+            >
+              فقط 11.99 دولار{" "}
+            </Typography>
+          </Box>
+
+          <Box
+            sx={{
+              marginTop: "25px",
+              width: "100%",
+              display: "flex",
+              justifyContent: "center",
+              alignItems: "center",
+            }}
+          >
+            <a
+              style={{
+                background: "#FBBB03",
+                color: "black",
+                padding: "15px",
+                borderRadius: "16px",
+                fontSize: "24px",
+                fontWeight: "bold",
+                textShadow: "1px 1px 9px #000",
+              }}
+              target="_blank"
+              href="https://gumroad.com/checkout?product=vtxxkz&quantity=1&_gl=1*lflo71*_ga*NTY2NDY4MjI1LjE3MzU3ODEwODg.*_ga_6LJN6D94N6*czE3NTMzOTE1OTckbzQkZzEkdDE3NTMzOTIwOTEkajU4JGwwJGgw"
+            >
+              احصل على الحزمة الكاملة الآن{" "}
+            </a>
+          </Box>
+        </Box>
+      </Box>
+      <Box
+        sx={{
+          padding: "25px 30px",
+          background: "#ffffff",
+        }}
+      >
+        <Box>
+          {" "}
+          <Typography
+            variant="h3"
+            sx={{
+              color: "black",
+              fontSize: "30px",
+              fontWeight: "bold",
+              textShadow: "1px 1px 6px black",
+              lineHeight: "1.7",
+            }}
+          >
+            آراء العملاء وتقييمهم{" "}
+          </Typography>
+          <img
+            loading="lazy"
+            style={{ width: "100%", marginTop: "35px" }}
+            src="https://grbgo.com/wp-content/uploads/2024/11/1.png"
+          ></img>
+          <img
+            style={{ width: "100%", marginTop: "25px" }}
+            loading="lazy"
+            src="https://grbgo.com/wp-content/uploads/2024/12/Dxy35FM6c33wrLXHrtzgrgpi3N4L0t8ErjY5V58R-595x691.jpeg"
+          ></img>
+          <img
+            style={{ width: "100%" }}
+            loading="lazy"
+            src="https://grbgo.com/wp-content/uploads/2024/12/gVDE2xCNEMQj3RCKZOd5zJuBcOMEb7wHop8kthQ8-595x606.jpeg"
+          ></img>
+          <img
+            style={{ width: "100%" }}
+            loading="lazy"
+            src="https://grbgo.com/wp-content/uploads/2024/12/p0oe9CYZMb2pzZqwtFk2sx4rwXlT02ELjOyfx6Uo.png"
+          ></img>
+          <img
+            style={{ width: "100%" }}
+            loading="lazy"
+            src="https://grbgo.com/wp-content/uploads/2024/12/EAULmMykN3yH7l1XBN5K0MQDOsqYZXjPe3zgi8DM.jpeg"
+          ></img>
+          <img
+            style={{ width: "100%" }}
+            loading="lazy"
+            src="https://grbgo.com/wp-content/uploads/2024/12/hLeP8qBidX1LAsoBNsKiZg3QOrVkV3N7Poi8VNNT.jpeg"
+          ></img>
+          <img
+            style={{ width: "100%" }}
+            loading="lazy"
+            src="https://grbgo.com/wp-content/uploads/2024/12/CrloS9MqGSocIc6cYxXp3DU06GgTXPqIQQN9UO7J.jpeg"
+          ></img>
+          <img
+            style={{ width: "100%" }}
+            loading="lazy"
+            src="https://grbgo.com/wp-content/uploads/2024/12/NTp0CWD34MubQB7YbzoMlicPAbIkQLA0nRZBMcpd.jpeg"
+          ></img>
+          <img
+            style={{ width: "100%" }}
+            loading="lazy"
+            src="https://grbgo.com/wp-content/uploads/2024/12/FEt6FGSh2ohzuTF83hRzDf3wUv8QoR0tQJ0e4SAJ.jpeg"
+          ></img>
+          <img
+            style={{ width: "100%", marginTop: "55px" }}
+            loading="lazy"
+            src="https://grbgo.com/wp-content/uploads/2024/11/Screenshot-12.png"
+          ></img>
+        </Box>
+      </Box>
+      <Box
+        sx={{
+          padding: "25px 30px",
+          background: "#000",
+        }}
+      >
+        <Box
+          sx={{
+            border: "2px white solid",
+            borderRadius: "12px",
+            padding: "15px 2px",
+            boxShadow: "0px 0px 8px 5px #FFFFFF",
+          }}
+        >
+          {" "}
+          <Typography
+            variant="h3"
+            sx={{
+              color: "white",
+              fontSize: "30px",
+              fontWeight: "bold",
+              textShadow: "1px 1px 9px white",
+              lineHeight: "1.7",
+            }}
+          >
+            🔥 الحزمة الأكثر طلبا 🔥
+          </Typography>
+          <Typography
+            variant="h3"
+            sx={{
+              marginTop: "15px",
+              color: "red",
+              fontSize: "55px",
+              fontWeight: "bold",
+              textShadow: "1px 1px 9px red",
+              lineHeight: "1.7",
+              textDecoration: "line-through",
+            }}
+          >
+            19$
+          </Typography>
+          <Typography
+            variant="h3"
+            sx={{
+              marginTop: "15px",
+              color: "white",
+              fontSize: "20px",
+              fontWeight: "bold",
+              textShadow: "1px 1px 9px white",
+              lineHeight: "1.7",
+            }}
+          >
+            ✨ متوفر خصم لفترة محدودة جدا ✨
+          </Typography>
+          <Typography
+            variant="h3"
+            sx={{
+              marginTop: "15px",
+              color: "#FBBB03",
+              fontSize: "30px",
+              fontWeight: "bold",
+              textShadow: "1px 1px 9px #FBBB03",
+              lineHeight: "1.7",
+            }}
+          >
+            أحصل على الحزمة اليوم مقابل 11.99 $ فقط قبل إرتفاع السعر
+          </Typography>
+          <Typography
+            variant="h3"
+            sx={{
+              marginTop: "15px",
+              color: "#ffffffff",
+              fontSize: "30px",
+              fontWeight: "bold",
+              textShadow: "1px 1px 9px #ffffffff",
+              lineHeight: "1.7",
+            }}
+          >
+            فقط 11.99 دولار{" "}
+          </Typography>
+        </Box>
+
+        <Box
+          sx={{
+            marginTop: "25px",
+            width: "100%",
+            display: "flex",
+            justifyContent: "center",
+            alignItems: "center",
+          }}
+        >
+          <a
+            style={{
+              background: "#FBBB03",
+              color: "black",
+              padding: "15px",
+              borderRadius: "16px",
+              fontSize: "24px",
+              fontWeight: "bold",
+              textShadow: "1px 1px 9px #000",
+            }}
+            target="_blank"
+            href="https://gumroad.com/checkout?product=vtxxkz&quantity=1&_gl=1*lflo71*_ga*NTY2NDY4MjI1LjE3MzU3ODEwODg.*_ga_6LJN6D94N6*czE3NTMzOTE1OTckbzQkZzEkdDE3NTMzOTIwOTEkajU4JGwwJGgw"
+          >
+            احصل على الحزمة الكاملة الآن{" "}
+          </a>
+        </Box>
+      </Box>
+      <img
+        style={{ width: "100%", marginTop: "55px" }}
+        loading="lazy"
+        src="https://grbgo.com/wp-content/uploads/2024/11/paymrent.jpg"
+      ></img>
     </Box>
   );
 };
