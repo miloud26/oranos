@@ -1,7 +1,36 @@
-import { Box, colors, Typography } from "@mui/material";
+import { Box, Button, colors, Modal, Typography } from "@mui/material";
+import { useState } from "react";
 const PageOne = () => {
+  const [open, setOpen] = useState(false);
+  const handleOpen = () => setOpen(true);
+
   return (
     <Box sx={{ textAlign: "center", direction: "rtl" }}>
+      <Modal
+        open={open}
+        aria-labelledby="modal-modal-title"
+        aria-describedby="modal-modal-description"
+      >
+        <Box
+          sx={{
+            position: "absolute",
+            top: "50%",
+            left: "50%",
+            transform: "translate(-50%, -50%)",
+            width: "100%",
+            bgcolor: "background.paper",
+            border: "2px solid #000",
+            boxShadow: 24,
+          }}
+        >
+          <iframe
+            width="100%"
+            height="800px"
+            src="https://gumroad.com/checkout?product=nilqo&quantity=1"
+            frameborder="0"
+          ></iframe>
+        </Box>
+      </Modal>
       <Box
         sx={{
           width: "100%",
@@ -615,7 +644,8 @@ const PageOne = () => {
             alignItems: "center",
           }}
         >
-          <a
+          <Button
+            onClick={handleOpen}
             style={{
               background: "#FBBB03",
               color: "black",
@@ -625,11 +655,9 @@ const PageOne = () => {
               fontWeight: "bold",
               textShadow: "1px 1px 9px #000",
             }}
-            target="_blank"
-            href="https://gumroad.com/checkout?product=nilqo&quantity=1"
           >
-            احصل على الحزمة الكاملة الآن{" "}
-          </a>
+            احصل على الحزمة الكاملة الآن
+          </Button>
         </Box>
       </Box>
 
@@ -860,21 +888,20 @@ const PageOne = () => {
             marginTop: "-45px",
           }}
         >
-          <a
+          <Button
+            onClick={handleOpen}
             style={{
               background: "#FBBB03",
               color: "black",
               padding: "15px",
               borderRadius: "16px",
-              fontSize: "26px",
+              fontSize: "24px",
               fontWeight: "bold",
               textShadow: "1px 1px 9px #000",
             }}
-            target="_blank"
-            href="https://gumroad.com/checkout?product=nilqo&quantity=1"
           >
-            احصل على الحزمة الكاملة الآن{" "}
-          </a>
+            احصل على الحزمة الكاملة الآن
+          </Button>
         </Box>
       </Box>
 
@@ -1255,7 +1282,8 @@ const PageOne = () => {
               alignItems: "center",
             }}
           >
-            <a
+            <Button
+              onClick={handleOpen}
               style={{
                 background: "#FBBB03",
                 color: "black",
@@ -1265,11 +1293,9 @@ const PageOne = () => {
                 fontWeight: "bold",
                 textShadow: "1px 1px 9px #000",
               }}
-              target="_blank"
-              href="https://gumroad.com/checkout?product=nilqo&quantity=1"
             >
-              احصل على الحزمة الكاملة الآن{" "}
-            </a>
+              احصل على الحزمة الكاملة الآن
+            </Button>
           </Box>
         </Box>
       </Box>
@@ -1436,7 +1462,8 @@ const PageOne = () => {
             alignItems: "center",
           }}
         >
-          <a
+          <Button
+            onClick={handleOpen}
             style={{
               background: "#FBBB03",
               color: "black",
@@ -1446,11 +1473,9 @@ const PageOne = () => {
               fontWeight: "bold",
               textShadow: "1px 1px 9px #000",
             }}
-            target="_blank"
-            href="https://gumroad.com/checkout?product=nilqo&quantity=1"
           >
-            احصل على الحزمة الكاملة الآن{" "}
-          </a>
+            احصل على الحزمة الكاملة الآن
+          </Button>
         </Box>
       </Box>
       <img
